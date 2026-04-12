@@ -1,6 +1,6 @@
 [project]
 name = "iamdata"
-version = "0.1.202604111"
+version = "0.1.202604121"
 authors = [
   { name="David Kerber", email="dave@cloudcopilot.io" },
 ]
